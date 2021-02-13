@@ -69,4 +69,4 @@ if (int_height>120):  # checking if the height is greater than 120 cm
     else:
          print("price == 10")
 else: #Note the collon used after if conditon
-    print("You are not allowed")# Note the Indentation 
+    print("You are not allowed")# Note the Indentation
